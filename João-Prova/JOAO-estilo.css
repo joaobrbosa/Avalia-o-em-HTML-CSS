@@ -1,0 +1,237 @@
+@import url('https://fonts.googleapis.com/css2?family=Princess+Sofia&family=Yusei+Magic&display=swap" rel="stylesheet');
+
+*{margin: 0;padding: 0;}
+
+body{
+	background-color: #f0f0f0;
+}
+
+header, img{
+	width: 100%;
+	height: 520px;
+}
+
+nav{
+	background-color: #6c3fb5;
+	text-align: right;
+	padding: 20px;
+}
+
+a{
+	font: 1.35rem 'Yusei Magic', sans-serif;
+	text-decoration: none;
+	font-weight: 900;
+}
+
+.menu:link, .menu:visited{
+	color: #fff;
+	margin-right: 30px;
+}
+
+.menu:hover, .menu:active{
+	color: #6EE8F8;
+	margin-right: 30px;
+}
+
+
+
+h1, p {
+	font-family: 'Yusei Magic', sans-serif;
+	font-size: 3rem;
+	color: #6c3fb5;
+	text-align: left;
+	margin-bottom: 20px;
+	padding: 20px;
+}
+h2, p {
+	font-family: 'Yusei Magic', sans-serif;
+	font-size: 3rem;
+	color: #6c3fb5;
+	text-align: left;
+	margin-bottom: 20px;
+	padding: 20px;
+}
+
+
+p{
+	font: 1.5rem 'Yusei Magic', sans-serif;
+	color: #777;
+	font-weight: 300;
+	text-align: justify;
+	line-height: 30px;
+	margin-bottom: 10px;
+}
+
+h2{
+	text-align: left;
+	font-size: 2.5rem;
+}
+
+.img-destinos {
+	border-radius: 10px 10px 0px 0px;
+	height: 300px;
+}
+
+
+
+div{
+	color: #6c3fb5;
+}
+
+#container{
+	display: flex;
+	
+}
+
+.card{
+	width: 23%;
+	background-color: #6c3fb5;
+	margin: 25px;
+	border-radius: 10px;
+	box-shadow: 10px 10px 10px #000;
+	transition: 0.5s;
+}
+
+.card:hover{
+	box-shadow: 10px 10px 10px #888;
+}
+
+.img-modalidades{
+	border-radius: 10px 10px 0 0;
+	height: 150rem;
+}
+
+.texto-card h3,p {
+	display: inline-block;
+}
+
+.texto-card{
+	padding: 10px;
+}
+
+.texto-card p{
+	font-size: 0.5rem;
+	line-height: 30px;
+}
+
+h3{
+	text-align: center;
+	margin-top: 10px;
+	color: #fff;
+	font: 1.3rem 'Yusei Magic', sans-serif;
+}
+
+#pag-destinos{
+	background-color: #cdb2f8;
+}
+
+   #pag-destinos h3{
+	color: #eee5e5;
+	margin-bottom: 20px;
+	padding: 10px;
+	font-size: 1.2rem;
+   }
+
+
+
+
+
+
+
+#pag-login p{
+	text-align: center;
+}
+
+form{
+	background-color: #6c3fb5;
+	width: 500px;
+	margin: 30px auto;
+	padding: 20px;
+	border-radius: 8px;
+	box-shadow: 0px 0px 10px #ccc;
+}
+
+label, legend{
+	font: 1.35rem 'Yusei Magic', sans-serif;
+	font-weight: 300;
+	color: #bfb0d6;
+}
+
+input, select, fieldset, textarea{
+	width: 100%;
+	font: 1.35rem 'Yusei Magic', sans-serif;
+	color: #fff;
+	padding: 10px;
+	box-sizing: border-box;
+	margin-bottom: 15px;
+	border: 1px solid#b893f3;
+	border-radius: 6px;
+}
+
+ #botoes{
+	display: flex;
+}
+
+
+
+input[type="radio"], input[type="checkbox"]{
+	width: 35px;
+	margin-left: 40px;
+}
+
+input[type="submit"], input[type="reset"]{
+	background-color: #8BC34A;
+	color: #fff;
+	margin: 10px 30px;
+	border:  none;
+}
+
+input[type="reset"]{
+	background-color: #F47E7E;
+}
+
+
+footer{
+	background-color: #6c3fb5;
+	padding: 10px;
+	text-align: center;
+	
+}
+
+footer p, footer a{
+	text-align: center;
+	color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
